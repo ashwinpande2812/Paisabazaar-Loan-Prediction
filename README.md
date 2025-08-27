@@ -49,11 +49,3 @@ The dataset contains the following important columns:
 4. **Final Model: Gradient Boosting Classifier**  
    - Achieved best accuracy among tested models  
    - Saved as `gradient_boosting_model.pkl`  
-
----
-
-##  How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Credit-Score-Prediction.git
-   cd Credit-Score-Prediction
